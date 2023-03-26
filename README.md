@@ -25,7 +25,7 @@ EasyGemini currently makes a lot of assumptions and defaults, such as automatica
 3. Put your gemini files in the `sites/` directory. Replace `index.gmi` as necessary
 
 ```
-$ ezgem serve --site oxtyped.net -b 0.0.0.0 -p 1965
+$ easygemini serve --site oxtyped.net -b 0.0.0.0 -p 1965
 ```
 ---
 
