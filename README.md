@@ -12,7 +12,7 @@ EasyGemini currently makes a lot of assumptions and defaults, such as automatica
 - Support for proxying requests to Cloud-based Storage Systems (S3, GCS etc)
 
 #### Features
-- 🔐 Handles automatically the cert generation
+- 🔐 Handles the cert generation automatically
 - 🌏 Only supports (1) site per process
 
 #### Non-goal
