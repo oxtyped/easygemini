@@ -1,6 +1,6 @@
 # EasyGemini
 
-EasyGemini is a super-simple gemini static site server that quickly gets you started in bringing your gemini site online.
+EasyGemini is a super-simple [gemini](https://gemini.circumlunar.space/) static site server that quickly gets you started in bringing your gemini site online.
 
 ### Opinionated
 
