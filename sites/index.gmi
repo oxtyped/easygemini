@@ -27,9 +27,6 @@ EasyGemini currently makes a lot of assumptions and defaults, such as automatica
 ```
 $ easygemini serve --site oxtyped.net -b 0.0.0.0 -p 1965
 ```
-
-4. Grab a [gemini browser](https://geminiquickst.art/) and head on over to `gemini://localhost:1965`
-
 ---
 
 #### Currently Supports
