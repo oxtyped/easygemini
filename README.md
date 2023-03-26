@@ -10,6 +10,7 @@ EasyGemini currently makes a lot of assumptions and defaults, such as automatica
 
 - Caddyfile-style configuration mode
 - Support for proxying requests to Cloud-based Storage Systems (S3, GCS etc)
+- CGI-BIN support (Ref: [RFC3875](https://www.rfc-editor.org/rfc/rfc3875))
 
 #### Features
 - 🔐 Handles the cert generation automatically
