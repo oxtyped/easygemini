@@ -1,10 +1,14 @@
 # EasyGemini
 
-EasyGemini is a super-simple [gemini](https://gemini.circumlunar.space/) static site server that quickly gets you started in bringing your gemini site online.
+EasyGemini is a super-simple gemini static site server that quickly gets you started in bringing your gemini site online.
+
+=> gemini://gemini.circumlunar.space  gemini
 
 ### Opinionated
 
-EasyGemini currently makes a lot of assumptions and defaults, such as automatically generating a self-signed certificate and loading it for you. At its core, EasyGemini is powered by [adano/go-gemini](https://git.sr.ht/~adnano/go-gemini).
+EasyGemini currently makes a lot of assumptions and defaults, such as automatically generating a self-signed certificate and loading it for you. At its core, EasyGemini is powered by adano/go-gemini.
+
+=> https://git.sr.ht/~adnano/go-gemini adano/go-gemini (outside of gemini space)
 
 ### Roadmap
 
@@ -21,8 +25,10 @@ EasyGemini currently makes a lot of assumptions and defaults, such as automatica
 #### Quickstart
 
 1. Pull the entire source code
-2. Download the [respective binary](https://github.com/oxtyped/easygemini/releases) and put it in the project repository root
+2. Download the respective binary and put it in the project repository root
 3. Put your gemini files in the `sites/` directory. Replace `index.gmi` as necessary
+
+=> https://github.com/oxtyped/easygemini/releases binary download (outside of gemini space)
 
 ```
 $ easygemini serve --site oxtyped.net -b 0.0.0.0 -p 1965
