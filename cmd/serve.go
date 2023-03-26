@@ -34,7 +34,7 @@ var serveCmd = &cobra.Command{
 
 		certificates := &certificate.Store{}
 		if site != "" {
-			certificates.Register(fmt.Sprintf("*.%s", site))
+			certificates.Register(site)
 		} else {
 			certificates.Register("*")
 		}
