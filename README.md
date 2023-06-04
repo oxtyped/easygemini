@@ -28,8 +28,7 @@ EasyGemini currently makes a lot of assumptions and defaults, such as automatica
 
 Your directory structure should look something like this:
 
-```
-bash
+```bash
 x@y:/project/gemini/# tree
 .
 ├── certs
