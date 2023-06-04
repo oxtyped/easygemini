@@ -32,6 +32,7 @@ Your directory structure should look something like this:
 x@y:/project/gemini/# tree
 .
 ├── certs
+    └── .
 ├── easygemini
 └── sites
     └── index.gmi
